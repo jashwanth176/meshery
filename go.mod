@@ -51,6 +51,7 @@ require (
 	github.com/gofrs/uuid v4.4.0+incompatible
 	github.com/golang-jwt/jwt/v5 v5.3.0
 	github.com/google/go-cmp v0.7.0
+	github.com/google/go-containerregistry v0.20.3
 	github.com/gorilla/mux v1.8.1
 	github.com/jarcoal/httpmock v1.4.1
 	github.com/jinzhu/copier v0.4.0
@@ -58,7 +59,7 @@ require (
 	github.com/meshery/meshery-operator v1.0.3
 	github.com/meshery/meshkit v1.0.29
 	github.com/meshery/meshsync v1.0.3
-	github.com/meshery/schemas v1.3.120
+	github.com/meshery/schemas v1.3.129
 	github.com/nsf/termbox-go v1.1.1
 	github.com/oapi-codegen/runtime v1.7.0
 	github.com/olekukonko/tablewriter v1.1.4
@@ -239,7 +240,6 @@ require (
 	github.com/golang/protobuf v1.5.4 // indirect
 	github.com/google/btree v1.1.3 // indirect
 	github.com/google/gnostic-models v0.7.1 // indirect
-	github.com/google/go-containerregistry v0.20.3 // indirect
 	github.com/google/s2a-go v0.1.9 // indirect
 	github.com/google/shlex v0.0.0-20191202100458-e7afc7fbc510 // indirect
 	github.com/google/uuid v1.6.0 // indirect
